@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 125 125" style="enable-background:new 0 0 125 125;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#009245;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Слой_1">
+	<g>
+		<path class="st0" d="M62.5,125h-52C4.7,125,0,120.3,0,114.5l0-52C0,27.98,27.98,0,62.5,0l52,0c5.8,0,10.5,4.7,10.5,10.5v52
+			C125,97.02,97.02,125,62.5,125z"/>
+	</g>
+</g>
+<g id="Слой_2">
+	<g>
+		<path class="st1" d="M106,68.8c0-14.59-13.58-26.41-30.33-26.41S45.35,54.22,45.35,68.8s13.58,26.41,30.33,26.41
+			c4.41,0,8.58-0.84,12.36-2.31l12.09,10.14l-3.35-15.3C102.46,82.95,106,76.24,106,68.8z"/>
+		<line class="st1" x1="57.09" y1="56.09" x2="94.26" y2="56.09"/>
+		<line class="st1" x1="57.09" y1="67.83" x2="94.26" y2="67.83"/>
+		<line class="st1" x1="57.09" y1="79.57" x2="94.26" y2="79.57"/>
+		<path class="st1" d="M45.11,69.76c-3.96-0.14-7.72-0.95-11.14-2.29L21.87,77.61l3.35-15.3C19.54,57.51,16,50.8,16,43.37
+			c0-14.59,13.58-26.41,30.33-26.41c16.12,0,29.3,10.95,30.27,24.78"/>
+		<line class="st1" x1="64.91" y1="30.65" x2="27.74" y2="30.65"/>
+		<line class="st1" x1="64.91" y1="42.39" x2="27.74" y2="42.39"/>
+		<line class="st1" x1="49.62" y1="54.13" x2="27.74" y2="54.13"/>
+	</g>
+</g>
+</svg>
